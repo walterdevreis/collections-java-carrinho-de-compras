@@ -1,6 +1,4 @@
-# collections-java-carrinho-de-compras
-
-## Exercicio Carrinho de Compras.
+# Exercicio Carrinho de Compras.
 
 Crie uma classe chamada "CarrinhoDeCompras" que representa um carrinho de compras online. O carrinho deve ser implementado como uma lista de itens. Cada item é representado por uma classe chamada "Item" que possui atributos como nome, preço e quantidade. Implemente os seguintes métodos:
 
